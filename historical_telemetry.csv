@@ -1,0 +1,49 @@
+timestamp,provider,model,task_type,tokens,ttft,tps,cost_per_1k
+2026-11-24 16:00:27,OpenAI,openai/gpt-4o,Summarization,194,0.631,77.3,1.7953
+2026-11-24 16:01:27,Anthropic,anthropic/claude-3.5-sonnet,Code Generation,213,0.771,63.5,2.5713
+2026-11-24 16:02:27,Google,google/gemini-2.5-flash,Summarization,349,0.264,153.8,0.1037
+2026-11-24 16:03:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Reasoning,334,0.203,231.0,0.2363
+2026-11-24 16:04:27,DeepSeek,deepseek/deepseek-chat,Classification,159,,76.2,0.0709
+2026-11-24 16:05:27,Mistral,mistralai/mistral-small,Code Generation,171,0.306,125.6,0.1146
+2026-11-24 16:06:27,OpenAI,openai/gpt-4o,Summarization,395,0.651,74.9,1.852
+2026-11-24 16:07:27,Anthropic,anthropic/claude-3.5-sonnet,Reasoning,202,0.738,66.3,2.4611
+2026-11-24 16:08:27,Google,google/gemini-2.5-flash,Reasoning,494,0.286,142.0,0.1123
+2026-11-24 16:09:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Reasoning,501,0.174,269.0,0.203
+2026-11-24 16:10:27,DeepSeek,deepseek/deepseek-chat,Reasoning,164,0.4,101.3,0.0533
+2026-11-24 16:11:27,Mistral,mistralai/mistral-small,Reasoning,585,0.278,138.3,0.1041
+2026-11-24 16:12:27,OpenAI,openai/gpt-4o,Classification,234,0.687,70.9,1.9557
+2026-11-24 16:13:27,Anthropic,anthropic/claude-3.5-sonnet,Reasoning,567,0.846,57.9,2.8191
+2026-11-24 16:14:27,Google,google/gemini-2.5-flash,Summarization,370,0.246,164.8,0.0968
+2026-11-24 16:15:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Reasoning,496,0.198,235.9,0.2314
+2026-11-24 16:16:27,DeepSeek,deepseek/deepseek-chat,Classification,457,0.454,89.3,0.0605
+2026-11-24 16:17:27,Mistral,mistralai/mistral-small,Summarization,358,,101.3,0.1421
+2026-11-24 16:18:27,OpenAI,openai/gpt-4o,Code Generation,284,0.681,71.5,1.9394
+2026-11-24 16:19:27,Anthropic,anthropic/claude-3.5-sonnet,Reasoning,307,0.707,69.3,2.3565
+2026-11-24 16:20:27,Google,google/gemini-2.5-flash,Summarization,304,0.298,136.4,0.117
+2026-11-24 16:21:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Code Generation,179,0.199,234.9,0.2324
+2026-11-24 16:22:27,DeepSeek,deepseek/deepseek-chat,Summarization,401,0.392,103.2,0.0523
+2026-11-24 16:23:27,Mistral,mistralai/mistral-small,Code Generation,308,0.277,138.7,0.1038
+2026-11-24 16:24:27,OpenAI,openai/gpt-4o,Classification,557,0.65,75.0,1.8505
+2026-11-24 16:25:27,Anthropic,anthropic/claude-3.5-sonnet,Classification,184,0.623,78.6,2.0756
+2026-11-24 16:26:27,Google,google/gemini-2.5-flash,Summarization,291,0.296,137.1,0.1164
+2026-11-24 16:27:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Code Generation,273,0.185,252.7,0.2161
+2026-11-24 16:28:27,DeepSeek,deepseek/deepseek-chat,Code Generation,203,0.383,105.8,0.051
+2026-11-24 16:29:27,Mistral,mistralai/mistral-small,Summarization,422,0.374,102.6,0.1404
+2026-11-24 16:30:27,OpenAI,openai/gpt-4o,Summarization,503,0.654,74.5,1.8627
+2026-11-24 16:31:27,Anthropic,anthropic/claude-3.5-sonnet,Classification,183,0.689,71.1,2.297
+2026-11-24 16:32:27,Google,google/gemini-2.5-flash,Classification,436,0.322,125.9,0.1266
+2026-11-24 16:33:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Summarization,457,0.207,225.9,0.2417
+2026-11-24 16:34:27,DeepSeek,deepseek/deepseek-chat,Code Generation,388,0.508,79.7,0.0677
+2026-11-24 16:35:27,Mistral,mistralai/mistral-small,Summarization,235,0.327,117.5,0.1226
+2026-11-24 16:36:27,OpenAI,openai/gpt-4o,Reasoning,538,0.741,65.8,2.1094
+2026-11-24 16:37:27,Anthropic,anthropic/claude-3.5-sonnet,Reasoning,581,0.794,61.7,2.6465
+2026-11-24 16:38:27,Google,google/gemini-2.5-flash,Reasoning,533,0.322,126.2,0.1264
+2026-11-24 16:39:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Reasoning,348,0.208,225.0,0.2426
+2026-11-24 16:40:27,DeepSeek,deepseek/deepseek-chat,Classification,305,0.472,85.9,0.0629
+2026-11-24 16:41:27,Mistral,mistralai/mistral-small,Reasoning,544,0.314,122.3,0.1178
+2026-11-24 16:42:27,OpenAI,openai/gpt-4o,Reasoning,593,0.572,85.2,1.6277
+2026-11-24 16:43:27,Anthropic,anthropic/claude-3.5-sonnet,Summarization,411,0.81,60.5,2.6989
+2026-11-24 16:44:27,Google,google/gemini-2.5-flash,Reasoning,507,0.246,165.1,0.0966
+2026-11-24 16:45:27,Meta (Groq),meta-llama/llama-3.3-70b-instruct,Summarization,226,0.182,257.4,0.2121
+2026-11-24 16:46:27,DeepSeek,deepseek/deepseek-chat,Code Generation,181,0.531,76.3,0.0708
+2026-11-24 16:47:27,Mistral,mistralai/mistral-small,Reasoning,239,0.317,121.2,0.1188

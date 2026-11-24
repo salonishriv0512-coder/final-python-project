@@ -17,7 +17,7 @@ FALLBACK_MODELS = [
 
 def sync_openrouter_pricing():
     """Fetches live model tariffs from OpenRouter public API with offline fallback."""
-    url = "https://openrouter.ai"
+    url = "https://openrouter.ai/api/v1/models"
     target_map = {m["id"]: m.copy() for m in FALLBACK_MODELS}
 
     try:
